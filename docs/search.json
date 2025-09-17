@@ -224,13 +224,13 @@
   {
     "objectID": "base/about.html",
     "href": "base/about.html",
-    "title": "Über diesen Kurs",
+    "title": "About",
     "section": "",
-    "text": "Über diesen Kurs\ngibts was zu erzählen\nOrganisation: gisma spatial science ressources Kurs: LV-123 Kontakt: reudenbach@uni-marburg.de",
+    "text": "Organisation: gisma spatial science ressources Kurs: LV-123 Kontakt: reudenbach@uni-marburg.de",
     "crumbs": [
       "FAQ",
       "Willkommen",
-      "Über diesen Kurs"
+      "About"
     ]
   }
 ]
