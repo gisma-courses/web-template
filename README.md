@@ -2,7 +2,7 @@
 
 Ein Quarto-Gerüst für Kurs-Webseiten mit **Branding**, **Impressum** und **Auto-Deploy auf GitHub Pages**.
 
-Ein Blick auf die [Demo Seite](https://ogerhub.github.io/course-web-template/) zeigt das Default-setup.
+Ein Blick auf die [Demo Seite](https://gisma-courses.github.io/web-template/) zeigt das Default-setup.
 
 > Das Template kann grundsätzlich auch vollständig im Browser genutzt werden. Dann müssen jedoch alle Einträge, die `scripts/configure.py` nutzt, **online** in der `site-config.yaml` erfolgen . Das commiten löst dann die automatische Einrichtung der Seite aus
 >
