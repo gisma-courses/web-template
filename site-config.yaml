@@ -12,7 +12,7 @@ logo_path: "images/your-logo.png"                            # Logo obere Ecke N
 
 # Navbar rechts
 portal_text: "ILIAS"                     # z.B. Interne Lernplattform
-portal_url: "https://www.ilias.uni-marburg.de/ilias/login.php?client_id=uk&cmd=force_login&lang=de"                      # 
+portal_url: "https://ilias.uni-marburg.de/ilias.php?baseClass=ilrepositorygui&reloadpublic=1&cmd=&ref_id=1"                      # 
 
 # Footer / Impressum-Link im Footer
 impressum_href: "base/impressum.qmd"   # Script macht automatisch .html daraus

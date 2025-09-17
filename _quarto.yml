@@ -36,7 +36,7 @@ website:
     right:
       - icon: chat-left-text-fill
         text: Interne Lernplattform
-        href: https://www.ilias.uni-koeln.de/ilias/login.php?client_id=uk&cmd=force_login&lang=de
+        href: https://ilias.uni-marburg.de/ilias.php?baseClass=ilrepositorygui&reloadpublic=1&cmd=&ref_id=1
 
   sidebar:
     pinned: true
