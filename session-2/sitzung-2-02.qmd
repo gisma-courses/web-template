@@ -1,5 +1,6 @@
 ---
 title: "Übung 2-2"
+subtitle: "über das Unbestimmte"
 title-block-banner: ../images/bayern-religion-sp.jpg
 title-block-banner-color: black
 editor: visual
