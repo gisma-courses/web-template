@@ -12,7 +12,7 @@ title: "{{site_title}}"
 
 
 
-![](images/banner.png)
+![](images/Adam-Savage-Quotes-3.jpg)
 
 Willkommen zur Kurs-Website **{{course_code}}** — {{org_name}}.
 
