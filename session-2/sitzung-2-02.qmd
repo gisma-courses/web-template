@@ -1,5 +1,7 @@
 ---
 title: "Übung 2-2"
+title-block-banner: ../images/bayern-religion-sp.jpg
+title-block-banner-color: black
 editor: visual
 ---
 

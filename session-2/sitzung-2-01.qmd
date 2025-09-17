@@ -10,7 +10,7 @@ comments: false
 # ⇒ resource-path erlaubt die kurze Schreibweise images/…
 resource-path: ["..", "."]
 
-title-block-banner: ../images/freiraeume-sp.jpg
+title-block-banner: ../images/bayern-religion-sp.jpg
 title-block-banner-color: black
 
 # Format-Links in der Seitenleiste
