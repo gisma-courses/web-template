@@ -1,6 +1,6 @@
 ---
 title: ""
-title-block-banner: ../images/diffusion-sp.jpg
+title-block-banner: ../images/diffusion-sp.png
 title-block-banner-color: black 
 format-links: [html]   # Link-Namen müssen den Formatkeys entsprechen
 format:
